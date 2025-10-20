@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniltanriverdiler&show_icons=true&locale=en" alt="aniltanriverdiler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniltanriverdiler&" alt="aniltanriverdiler" /></p>
+<img src="https://raw.githubusercontent.com/aniltanriverdiler/aniltanriverdiler/output/snake.svg" width = 1500 alt="Snake animation" />
