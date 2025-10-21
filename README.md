@@ -39,6 +39,13 @@
   </a>
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/aniltanriverdiler/aniltanriverdiler/output/snake.svg" width = 1500 alt="Snake animation" />
+  <br/><br/><br/>
+</div>
+
 <h2 align="start">⚡ Stats ⚡</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniltanriverdiler&show_icons=true&locale=en&layout=compact" alt="aniltanriverdiler" /></p>
@@ -47,9 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniltanriverdiler&" alt="aniltanriverdiler" /></p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/aniltanriverdiler/aniltanriverdiler/output/snake.svg" width = 1500 alt="Snake animation" />
-  <br/><br/><br/>
-</div>
+
