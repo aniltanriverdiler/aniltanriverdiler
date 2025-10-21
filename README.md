@@ -25,14 +25,12 @@
 <h2 align="left">🤝 Connect with me 🤝</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/an%C4%B1l-tanr%C4%B1verdiler-31791a23a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@tanriverdileranil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="mailto:tanriverdileranil@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
-
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="left">
