@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltanriverdiler&label=Profile%20views&color=0e75b6&style=flat" alt="aniltanriverdiler" /> </p>
 
-- 🔭 Building **Ojs Nutrition**, a modern e-commerce site for fitness products 
+- 🔭 Building **modern web & mobile products** with a focus on speed and real-world impact 
 
-- 🌱 I’m currently learning **modern frontend technologies like Next.js, Tailwind CSS, and Shadcn UI**  
+- 🚀 Leveling up in **React, Next.js, and React Native** across web and mobile 
 
-- 💬 Ask me about **React, React Native, Next.js, and modern frontend development**  
+- 💬 Let’s talk about **shipping fast, solving real problems, and building things that scale**  
 
 - 📫 How to reach me **tanriverdileranil@gmail.com**  
 
