@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltanriverdiler&label=Profile%20views&color=0e75b6&style=flat" alt="aniltanriverdiler" /> </p>
 
-- 🔭 Building **modern web & mobile products** with a focus on speed and real-world impact 
+- 🔭 Building **modern web and mobile applications** with a focus on performance and clean architecture 
 
 - 🚀 Leveling up in **React, Next.js, and React Native** across web and mobile 
 
